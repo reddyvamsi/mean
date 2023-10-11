@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+         "name":"vamsikrishna",
+         "jobrole":"software"
+
+    },
+    {
+        "id":2,
+         "name":"krishna",
+         "jobrole":"softwaredeveloper"
+
+    },
+    {
+        "id":3,
+         "name":"ravi",
+         "jobrole":"Db dev"
+
+    }
+]
